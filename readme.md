@@ -24,7 +24,7 @@
 <p align="center">
 🌏 I'm Indonesian
 😊 I’m currently learning Data scientist
-🌷 Fun fact: I love outdoor activities such as swimming, cycling, etc. .
+
 </p>
 
 <p align=center>  
