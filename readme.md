@@ -8,8 +8,8 @@
 </div>
 </h1>
 <br />
-<img align="center" src="https://github.com/astutir/astutir/assets/133883292/a286ce66-7a2e-4988-8003-be72b4709c20">
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif">
+<img align="center" width="300" src="https://github.com/astutir/astutir/assets/133883292/a286ce66-7a2e-4988-8003-be72b4709c20">
+<img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif">
 - 🌱 I’m currently learning **phyton,SQL,BI Tools, HTML, CSS**
 
 - 📝 I regularly write articles on [https://medium.com/@astutirahmarubi](https://medium.com/@astutirahmarubi)
