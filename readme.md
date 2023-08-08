@@ -8,7 +8,7 @@
 </div>
 </h1>
 <br />
-<img align="center" src="https://github.com/astutir/astutir/assets/133883292/2b8994e3-37ad-4a76-a58d-34d50aeda07b">
+<img align="center" src="https://github.com/astutir/astutir/assets/133883292/826ea911-ebee-46a3-b54d-9a8c411641dd">
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif">
 
 - 🌱 I’m currently learning **_phyton,SQL,BI Tools, HTML, CSS_**
