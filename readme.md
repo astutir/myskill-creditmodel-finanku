@@ -10,17 +10,11 @@
 <br />
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif">
 
+![image](https://github.com/astutir/astutir/assets/133883292/a286ce66-7a2e-4988-8003-be72b4709c20)
 - 🌱 I’m currently learning **phyton,SQL,BI Tools, HTML, CSS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Data-Portofolio](https://github.com/Data-Portofolio)
 
 - 📝 I regularly write articles on [https://medium.com/@astutirahmarubi](https://medium.com/@astutirahmarubi)
 
-- 📫 How to reach me **astutirahmarubi@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/a-rahmawati/](https://www.linkedin.com/in/a-rahmawati/)
-
-- ⚡ Fun fact **I love outdoor activities: swimming,gardening,cycling,etc.**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
