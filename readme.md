@@ -10,9 +10,10 @@
 <br />
 <img align="center" src="https://github.com/astutir/astutir/assets/133883292/a90238d0-43c8-4c1e-bb3b-0314207b6c57">
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif">
-- 🌱 I’m currently learning **phyton,SQL,BI Tools, HTML, CSS**
 
-- 📝 I regularly write articles on [https://medium.com/@astutirahmarubi](https://medium.com/@astutirahmarubi)
+- 🌱 I’m currently learning **_phyton,SQL,BI Tools, HTML, CSS_**
+
+- 📝 I regularly write articles on **[https://medium.com/@astutirahmarubi](https://medium.com/@astutirahmarubi)**
 
 
 <h3 align="left">Connect with me: </h3>
